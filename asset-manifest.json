@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-filter_light/static/css/main.408130a6.css",
+    "main.js": "/react-filter_light/static/js/main.c391a333.js",
+    "static/media/background.jpg": "/react-filter_light/static/media/background.d1d17776af70dc2428a2.jpg",
+    "index.html": "/react-filter_light/index.html",
+    "main.408130a6.css.map": "/react-filter_light/static/css/main.408130a6.css.map",
+    "main.c391a333.js.map": "/react-filter_light/static/js/main.c391a333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.408130a6.css",
+    "static/js/main.c391a333.js"
+  ]
+}
