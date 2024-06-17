@@ -1,0 +1,571 @@
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./.yarn/__virtual__/css-loader-virtual-f4ce20568a/0/cache/css-loader-npm-6.5.1-a34b2a752f-5a3bedecb4.zip/node_modules/css-loader/dist/cjs.js!./.yarn/__virtual__/@hh.ru-magritte-ui-drop-virtual-7981faf97e/0/cache/@hh.ru-magritte-ui-drop-npm-4.0.7-87b87207d9-24e9d4a686.zip/node_modules/@hh.ru/magritte-ui-drop/index.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+:root{
+  --magritte-color-component-drop-background-content-v16-0-6:#ffffff;
+  --magritte-shadow-level-2-color-v16-0-6:#7090b03d;
+  --magritte-shadow-level-2-x-v16-0-6:0px;
+  --magritte-shadow-level-2-y-v16-0-6:8px;
+  --magritte-shadow-level-2-blur-v16-0-6:16px;
+  --magritte-shadow-level-2-spread-v16-0-6:0px;
+}
+:root{
+  --magritte-semantic-animation-ease-in-out-100-duration-v16-0-6:100ms;
+  --magritte-semantic-animation-ease-in-out-200-timing-function-v16-0-6:cubic-bezier(0.25, 0.1, 0.25, 1);
+  --magritte-semantic-animation-ease-in-out-200-duration-v16-0-6:200ms;
+  --magritte-static-space-300-v16-0-6:12px;
+  --magritte-static-space-400-v16-0-6:16px;
+  --magritte-static-space-600-v16-0-6:24px;
+  --magritte-static-border-radius-600-v16-0-6:24px;
+}
+.magritte-night-theme{
+  --magritte-color-component-drop-background-content-v16-0-6:#1B1B1B;
+  --magritte-shadow-level-2-color-v16-0-6:#0000003d;
+  --magritte-shadow-level-2-x-v16-0-6:0px;
+  --magritte-shadow-level-2-y-v16-0-6:8px;
+  --magritte-shadow-level-2-blur-v16-0-6:16px;
+  --magritte-shadow-level-2-spread-v16-0-6:0px;
+}
+.magritte-drop___Z10P4_4-0-7{
+  position:relative;
+  display:flex;
+  flex-direction:column;
+  background:var(--magritte-color-component-drop-background-content-v16-0-6);
+  border-radius:var(--magritte-static-border-radius-600-v16-0-6);
+  box-shadow:var(--magritte-shadow-level-2-x-v16-0-6) var(--magritte-shadow-level-2-y-v16-0-6) var(--magritte-shadow-level-2-blur-v16-0-6) var(--magritte-shadow-level-2-spread-v16-0-6) var(--magritte-shadow-level-2-color-v16-0-6);
+  box-sizing:border-box;
+  overflow:hidden;
+}
+.magritte-drop-container___dbMt9_4-0-7{
+  display:block;
+  overflow:auto;
+}
+.magritte-drop-footer___v8ZEO_4-0-7{
+  display:flex;
+  flex-flow:column;
+  gap:12px;
+}
+.magritte-drop-space-300___41acH_4-0-7 .magritte-drop-container___dbMt9_4-0-7,
+.magritte-drop-space-300___41acH_4-0-7 .magritte-drop-footer___v8ZEO_4-0-7{
+  padding:var(--magritte-static-space-300-v16-0-6);
+}
+.magritte-drop-space-400___XX1RM_4-0-7 .magritte-drop-padding___xBiJO_4-0-7,
+.magritte-drop-space-400___XX1RM_4-0-7 .magritte-drop-container___dbMt9_4-0-7,
+.magritte-drop-space-400___XX1RM_4-0-7 .magritte-drop-footer___v8ZEO_4-0-7{
+  padding:var(--magritte-static-space-400-v16-0-6);
+}
+.magritte-drop-space-600___6B1i0_4-0-7 .magritte-drop-padding___xBiJO_4-0-7,
+.magritte-drop-space-600___6B1i0_4-0-7 .magritte-drop-container___dbMt9_4-0-7,
+.magritte-drop-space-600___6B1i0_4-0-7 .magritte-drop-footer___v8ZEO_4-0-7{
+  padding:var(--magritte-static-space-600-v16-0-6);
+}
+.magritte-drop-with-footer___CgBIV_4-0-7 .magritte-drop-container___dbMt9_4-0-7{
+  padding-bottom:0;
+}
+@media (prefers-reduced-motion: no-preference){
+  .magritte-drop-enter___4vEuH_4-0-7 .magritte-drop___Z10P4_4-0-7{
+    opacity:0;
+  }
+  .magritte-drop-exit___brFjz_4-0-7 .magritte-drop___Z10P4_4-0-7,
+  .magritte-drop-enter-active___SQUog_4-0-7 .magritte-drop___Z10P4_4-0-7{
+    opacity:1;
+  }
+  .magritte-drop-exit-active___GB0ET_4-0-7 .magritte-drop___Z10P4_4-0-7{
+    opacity:0;
+  }
+  .magritte-drop-animation-timeout___uO7LF_4-0-7,
+  .magritte-drop-enter-active___SQUog_4-0-7 .magritte-drop___Z10P4_4-0-7{
+    transition-property:opacity, transform;
+    transition-duration:var(--magritte-semantic-animation-ease-in-out-200-duration-v16-0-6);
+    transition-timing-function:var(--magritte-semantic-animation-ease-in-out-200-timing-function-v16-0-6);
+    --animation-duration:var(--magritte-semantic-animation-ease-in-out-200-duration-v16-0-6);
+  }
+  .magritte-drop-animation-timeout___uO7LF_4-0-7,
+  .magritte-drop-exit-active___GB0ET_4-0-7 .magritte-drop___Z10P4_4-0-7{
+    transition-property:opacity, transform;
+    transition-duration:var(--magritte-semantic-animation-ease-in-out-100-duration-v16-0-6);
+    transition-timing-function:var(--magritte-semantic-animation-ease-in-out-200-timing-function-v16-0-6);
+  }
+  .magritte-drop-enter___4vEuH_4-0-7 .magritte-drop-direction-top___3CelS_4-0-7{
+    transform:translateY(-4px);
+  }
+  .magritte-drop-exit___brFjz_4-0-7 .magritte-drop-direction-top___3CelS_4-0-7,
+  .magritte-drop-enter-active___SQUog_4-0-7 .magritte-drop-direction-top___3CelS_4-0-7{
+    transform:translateY(0%);
+  }
+  .magritte-drop-exit-active___GB0ET_4-0-7 .magritte-drop-direction-top___3CelS_4-0-7{
+    transform:translateY(-4px);
+  }
+  .magritte-drop-enter___4vEuH_4-0-7 .magritte-drop-direction-bottom___719rs_4-0-7{
+    transform:translateY(4px);
+  }
+  .magritte-drop-exit___brFjz_4-0-7 .magritte-drop-direction-bottom___719rs_4-0-7,
+  .magritte-drop-enter-active___SQUog_4-0-7 .magritte-drop-direction-bottom___719rs_4-0-7{
+    transform:translateY(0%);
+  }
+  .magritte-drop-exit-active___GB0ET_4-0-7 .magritte-drop-direction-bottom___719rs_4-0-7{
+    transform:translateY(4px);
+  }
+  .magritte-drop-enter___4vEuH_4-0-7 .magritte-drop-direction-left___2PTob_4-0-7{
+    transform:translateX(-4px);
+  }
+  .magritte-drop-exit___brFjz_4-0-7 .magritte-drop-direction-left___2PTob_4-0-7,
+  .magritte-drop-enter-active___SQUog_4-0-7 .magritte-drop-direction-left___2PTob_4-0-7{
+    transform:translateX(0%);
+  }
+  .magritte-drop-exit-active___GB0ET_4-0-7 .magritte-drop-direction-left___2PTob_4-0-7{
+    transform:translateX(4px);
+  }
+  .magritte-drop-enter___4vEuH_4-0-7 .magritte-drop-direction-right___SPOr1_4-0-7{
+    transform:translateX(4px);
+  }
+  .magritte-drop-exit___brFjz_4-0-7 .magritte-drop-direction-right___SPOr1_4-0-7,
+  .magritte-drop-enter-active___SQUog_4-0-7 .magritte-drop-direction-right___SPOr1_4-0-7{
+    transform:translateX(0%);
+  }
+  .magritte-drop-exit-active___GB0ET_4-0-7 .magritte-drop-direction-right___SPOr1_4-0-7{
+    transform:translateX(4px);
+  }
+}
+
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./.yarn/__virtual__/css-loader-virtual-f4ce20568a/0/cache/css-loader-npm-6.5.1-a34b2a752f-5a3bedecb4.zip/node_modules/css-loader/dist/cjs.js!./.yarn/__virtual__/@hh.ru-magritte-ui-divider-virtual-c3bb39bae2/0/cache/@hh.ru-magritte-ui-divider-npm-1.1.17-b1a38a7e9e-ad19490556.zip/node_modules/@hh.ru/magritte-ui-divider/index.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+:root{
+  --magritte-color-component-divider-stroke-content-v16-0-6:#DCE3EB;
+}
+.magritte-night-theme{
+  --magritte-color-component-divider-stroke-content-v16-0-6:#303030;
+}
+.magritte-vertical___pLcci_1-1-17{
+  display:inline-block;
+  height:100%;
+  border-inline-start:1px solid var(--magritte-color-component-divider-stroke-content-v16-0-6);
+}
+.magritte-horizontal___WHVm-_1-1-17{
+  display:block;
+  width:100%;
+  border-block-start:1px solid var(--magritte-color-component-divider-stroke-content-v16-0-6);
+}
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./.yarn/__virtual__/css-loader-virtual-f4ce20568a/0/cache/css-loader-npm-6.5.1-a34b2a752f-5a3bedecb4.zip/node_modules/css-loader/dist/cjs.js!./.yarn/__virtual__/@hh.ru-magritte-ui-bottom-sheet-virtual-b97c14966b/0/cache/@hh.ru-magritte-ui-bottom-sheet-npm-4.0.0-e9efdc01e9-ad0d0153d7.zip/node_modules/@hh.ru/magritte-ui-bottom-sheet/index.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+:root{
+  --magritte-color-component-bottom-sheet-background-content-v16-0-6:#ffffff;
+  --magritte-color-component-bottom-sheet-grabber-content-v16-0-6:#bbc8d48f;
+  --magritte-color-component-_overlay-background-content-v16-0-6:#20262b99;
+}
+:root{
+  --magritte-semantic-border-radius-modal-v16-0-6:24px;
+  --magritte-semantic-animation-ease-in-out-100-timing-function-v16-0-6:cubic-bezier(0.25, 0.1, 0.25, 1);
+  --magritte-semantic-animation-ease-in-out-100-duration-v16-0-6:100ms;
+  --magritte-semantic-animation-ease-in-out-200-timing-function-v16-0-6:cubic-bezier(0.25, 0.1, 0.25, 1);
+  --magritte-semantic-animation-ease-in-out-200-duration-v16-0-6:200ms;
+  --magritte-semantic-animation-ease-in-out-300-timing-function-v16-0-6:cubic-bezier(0.25, 0.1, 0.25, 1);
+  --magritte-semantic-animation-ease-in-out-300-duration-v16-0-6:300ms;
+  --magritte-semantic-animation-ease-in-out-400-timing-function-v16-0-6:cubic-bezier(0.25, 0.1, 0.25, 1);
+  --magritte-semantic-animation-ease-in-out-400-duration-v16-0-6:400ms;
+  --magritte-static-border-radius-50-v16-0-6:2px;
+}
+.magritte-night-theme{
+  --magritte-color-component-bottom-sheet-background-content-v16-0-6:#1B1B1B;
+  --magritte-color-component-bottom-sheet-grabber-content-v16-0-6:#c6c6c68f;
+  --magritte-color-component-_overlay-background-content-v16-0-6:#26262699;
+}
+.magritte-animation-timeout___yd-SZ_4-0-0,
+.magritte-css-variables-container___jBCr9_4-0-0{
+  --initial-viewport-height:100%;
+  --overlay-opacity:1;
+  --virtual-keyboard-top-offset:0px;
+  --virtual-keyboard-bottom-offset:0px;
+  --enter-animation-duration:0ms;
+  --exit-animation-duration:0ms;
+  --grabber-animation-duration:0ms;
+  --height-transition-duration:0ms;
+  --virtual-keyboard-animation-duration:0ms;
+}
+@media (prefers-reduced-motion: no-preference){
+  .magritte-animation-timeout___yd-SZ_4-0-0,
+  .magritte-css-variables-container___jBCr9_4-0-0{
+    --enter-animation-duration:var(--magritte-semantic-animation-ease-in-out-300-duration-v16-0-6);
+    --exit-animation-duration:var(--magritte-semantic-animation-ease-in-out-200-duration-v16-0-6);
+    --grabber-animation-duration:var(--magritte-semantic-animation-ease-in-out-200-duration-v16-0-6);
+    --height-transition-duration:var(--magritte-semantic-animation-ease-in-out-400-duration-v16-0-6);
+    --virtual-keyboard-animation-duration:var(--magritte-semantic-animation-ease-in-out-100-duration-v16-0-6);
+  }
+}
+.magritte-appear-animation___P84Ln_4-0-0{
+  transition-property:transform;
+  transition-duration:var(--enter-animation-duration);
+  transition-timing-function:var(--magritte-semantic-animation-ease-in-out-300-timing-function-v16-0-6);
+}
+.magritte-disappear-animation___Putks_4-0-0{
+  transition-duration:var(--exit-animation-duration);
+  transition-timing-function:var(--magritte-semantic-animation-ease-in-out-200-timing-function-v16-0-6);
+}
+.magritte-content___1gAwP_4-0-0.magritte-disappear-animation___Putks_4-0-0{
+  transition-property:transform;
+}
+.magritte-overlay-background___8Sd4V_4-0-0.magritte-appear-animation___P84Ln_4-0-0,
+.magritte-overlay-background___8Sd4V_4-0-0.magritte-disappear-animation___Putks_4-0-0{
+  transition-property:opacity;
+}
+.magritte-grabber-transition-animation___s3Oh4_4-0-0{
+  transition-property:transform;
+  transition-duration:var(--grabber-animation-duration);
+  transition-timing-function:var(--magritte-semantic-animation-ease-in-out-200-timing-function-v16-0-6);
+}
+.magritte-content___1gAwP_4-0-0.magritte-height-transition-animation___xNprr_4-0-0,
+.magritte-footer___RWslT_4-0-0.magritte-height-transition-animation___xNprr_4-0-0{
+  transition-property:transform;
+}
+.magritte-height-transition-element___tyx84_4-0-0.magritte-height-transition-animation___xNprr_4-0-0{
+  transition-property:flex-basis;
+}
+.magritte-height-transition-animation___xNprr_4-0-0{
+  transition-duration:var(--height-transition-duration);
+  transition-timing-function:var(--magritte-semantic-animation-ease-in-out-400-timing-function-v16-0-6);
+}
+.magritte-close-by-swipe-animation___wdezY_4-0-0{
+  transition-property:transform;
+  transition-duration:var(--exit-animation-duration);
+  transition-timing-function:linear;
+}
+.magritte-virtual-keyboard-animation___vM9e-_4-0-0{
+  transition-property:bottom;
+  transition-duration:var(--virtual-keyboard-animation-duration);
+  transition-timing-function:var(--magritte-semantic-animation-ease-in-out-100-timing-function-v16-0-6);
+}
+.magritte-overlay___5a2U-_4-0-0{
+  position:fixed;
+  inset:0;
+}
+.magritte-overlay-background___8Sd4V_4-0-0{
+  position:absolute;
+  inset:0;
+  background-color:var(--magritte-color-component-_overlay-background-content-v16-0-6);
+  opacity:var(--overlay-opacity);
+}
+.magritte-overlay_invisible___-YFlP_4-0-0{
+  pointer-events:none;
+}
+.magritte-overlay_invisible___-YFlP_4-0-0.magritte-overlay-background___8Sd4V_4-0-0{
+  background-color:transparent;
+}
+.magritte-scroll-container___4ngNY_4-0-0{
+  position:absolute;
+  inset:calc(20px + var(--virtual-keyboard-top-offset)) 0 var(--virtual-keyboard-bottom-offset);
+  border-radius:var(--magritte-semantic-border-radius-modal-v16-0-6) var(--magritte-semantic-border-radius-modal-v16-0-6) 0 0;
+  display:flex;
+  align-items:stretch;
+  flex-direction:column;
+  overflow-y:scroll;
+  overscroll-behavior:none;
+  scrollbar-width:none;
+  user-select:text;
+}
+.magritte-scroll-container___4ngNY_4-0-0::-webkit-scrollbar{
+  display:none;
+}
+.magritte-scroll-container_no-scroll___9BJP6_4-0-0{
+  touch-action:none;
+  overflow-y:hidden;
+}
+.magritte-fill___9eVpH_4-0-0{
+  flex:1 0 0;
+}
+.magritte-fill_full-screen___HrIrL_4-0-0{
+  flex:0 0 0;
+}
+.magritte-fill_half-screen___phiVM_4-0-0{
+  flex:1 0 calc(100% - var(--initial-viewport-height) / 2 - var(--virtual-keyboard-bottom-offset) - 20px);
+}
+.magritte-content___1gAwP_4-0-0{
+  pointer-events:initial;
+  position:relative;
+  flex:0 0 auto;
+  will-change:transform;
+  max-width:640px;
+  align-self:center;
+  width:100%;
+}
+.magritte-content_full-screen___2SFaO_4-0-0{
+  flex:1 0 calc(var(--initial-viewport-height) - var(--virtual-keyboard-bottom-offset) - 20px + 1px);
+}
+.magritte-visual-container___-VSuY_4-0-0{
+  background-color:var(--magritte-color-component-bottom-sheet-background-content-v16-0-6);
+  border-radius:var(--magritte-semantic-border-radius-modal-v16-0-6) var(--magritte-semantic-border-radius-modal-v16-0-6) 0 0;
+  contain:paint;
+  display:flex;
+  flex-direction:column;
+  height:100%;
+}
+.magritte-header___5mMtj_4-0-0{
+  --magritte-ui-navigation-bar-background-override:var(--magritte-color-component-bottom-sheet-background-content-v16-0-6);
+  flex:0 0 auto;
+  position:sticky;
+  top:0;
+  padding-top:16px;
+  background-color:var(--magritte-color-component-bottom-sheet-background-content-v16-0-6);
+  z-index:2;
+}
+.magritte-main___tvGXi_4-0-0{
+  flex:1 0 auto;
+  z-index:1;
+}
+.magritte-main_with-paddings___o8gOS_4-0-0{
+  padding:16px 16px 0;
+}
+.magritte-main_with-paddings___o8gOS_4-0-0.magritte-main_without-header___ra86o_4-0-0{
+  padding:0 16px;
+}
+.magritte-height-transition-element___tyx84_4-0-0{
+  flex:0 0 0px;
+  background-color:var(--magritte-color-component-bottom-sheet-background-content-v16-0-6);
+  will-change:flex-basis;
+}
+.magritte-footer___RWslT_4-0-0{
+  flex:0 0 auto;
+  position:sticky;
+  bottom:0;
+  padding-bottom:16px;
+  background-color:var(--magritte-color-component-bottom-sheet-background-content-v16-0-6);
+  will-change:transform;
+  z-index:2;
+}
+.magritte-footer_swipe-in-progress___h6f9r_4-0-0{
+  position:absolute;
+  left:0;
+  right:0;
+}
+.magritte-footer-with-padding___KwkhC_4-0-0{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  padding:16px 16px 0;
+}
+.magritte-grabber___A7SB-_4-0-0{
+  height:0;
+  width:100%;
+  z-index:1;
+}
+.magritte-grabber_invisible___Y-Iwm_4-0-0{
+  visibility:hidden;
+}
+.magritte-grabber_sticky___-DE-B_4-0-0{
+  position:sticky;
+  top:-20px;
+}
+.magritte-grabber_fake-sticky___DKj2G_4-0-0{
+  position:fixed;
+  top:0;
+}
+.magritte-grabber_fixed___qv9BU_4-0-0{
+  position:fixed;
+  top:20px;
+  transform:translateY(calc(20px + var(--virtual-keyboard-top-offset)));
+}
+.magritte-grabber___A7SB-_4-0-0::after{
+  content:'';
+  position:absolute;
+  top:-12px;
+  left:calc(50% - (36px / 2));
+  height:4px;
+  width:36px;
+  background-color:var(--magritte-color-component-bottom-sheet-grabber-content-v16-0-6);
+  border-radius:var(--magritte-static-border-radius-50-v16-0-6);
+}
+.magritte-grabber_sticky-inside___6vQtN_4-0-0::after{
+  top:8px;
+}
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./.yarn/__virtual__/css-loader-virtual-f4ce20568a/0/cache/css-loader-npm-6.5.1-a34b2a752f-5a3bedecb4.zip/node_modules/css-loader/dist/cjs.js!./.yarn/__virtual__/@hh.ru-magritte-ui-navigation-bar-virtual-94f04dc2d2/0/cache/@hh.ru-magritte-ui-navigation-bar-npm-4.0.0-3ac9e2c95a-45e839acab.zip/node_modules/@hh.ru/magritte-ui-navigation-bar/index.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+:root{
+  --magritte-color-background-body-v16-0-6:#ffffff;
+  --magritte-color-component-navigation-bar-text-title-v16-0-6:#000000;
+  --magritte-color-component-navigation-bar-text-subtitle-v16-0-6:#768694;
+}
+:root{
+  --magritte-typography-title-4-semibold-font-family-v16-0-6:"Inter";
+  --magritte-typography-title-4-semibold-font-weight-v16-0-6:600;
+  --magritte-typography-title-4-semibold-line-height-v16-0-6:32px;
+  --magritte-typography-title-4-semibold-font-size-v16-0-6:22px;
+  --magritte-typography-title-4-semibold-letter-spacing-v16-0-6:-0.0075em;
+  --magritte-typography-title-4-semibold-text-indent-v16-0-6:0px;
+  --magritte-typography-title-4-semibold-text-transform-v16-0-6:none;
+  --magritte-typography-title-4-semibold-text-decoration-v16-0-6:none;
+  --magritte-typography-title-5-semibold-font-family-v16-0-6:"Inter";
+  --magritte-typography-title-5-semibold-font-weight-v16-0-6:600;
+  --magritte-typography-title-5-semibold-line-height-v16-0-6:26px;
+  --magritte-typography-title-5-semibold-font-size-v16-0-6:18px;
+  --magritte-typography-title-5-semibold-letter-spacing-v16-0-6:0em;
+  --magritte-typography-title-5-semibold-text-indent-v16-0-6:0px;
+  --magritte-typography-title-5-semibold-text-transform-v16-0-6:none;
+  --magritte-typography-title-5-semibold-text-decoration-v16-0-6:none;
+  --magritte-typography-label-2-regular-font-family-v16-0-6:"Inter";
+  --magritte-typography-label-2-regular-font-weight-v16-0-6:400;
+  --magritte-typography-label-2-regular-line-height-v16-0-6:22px;
+  --magritte-typography-label-2-regular-font-size-v16-0-6:16px;
+  --magritte-typography-label-2-regular-letter-spacing-v16-0-6:0em;
+  --magritte-typography-label-2-regular-text-indent-v16-0-6:0px;
+  --magritte-typography-label-2-regular-text-transform-v16-0-6:none;
+  --magritte-typography-label-2-regular-text-decoration-v16-0-6:none;
+  --magritte-typography-label-4-regular-font-family-v16-0-6:"Inter";
+  --magritte-typography-label-4-regular-font-weight-v16-0-6:400;
+  --magritte-typography-label-4-regular-line-height-v16-0-6:18px;
+  --magritte-typography-label-4-regular-font-size-v16-0-6:12px;
+  --magritte-typography-label-4-regular-letter-spacing-v16-0-6:0.01em;
+  --magritte-typography-label-4-regular-text-indent-v16-0-6:0px;
+  --magritte-typography-label-4-regular-text-transform-v16-0-6:none;
+  --magritte-typography-label-4-regular-text-decoration-v16-0-6:none;
+}
+.magritte-night-theme{
+  --magritte-color-background-body-v16-0-6:#000000;
+  --magritte-color-component-navigation-bar-text-title-v16-0-6:#ffffff;
+  --magritte-color-component-navigation-bar-text-subtitle-v16-0-6:#919191;
+}
+.magritte-sticky___ZL9Jx_4-0-0{
+  pointer-events:none;
+  position:sticky;
+  top:0;
+}
+.magritte-container___SAJjQ_4-0-0{
+  pointer-events:all;
+  padding:0 16px 16px;
+  background-color:var(--magritte-ui-navigation-bar-background-override, var(--magritte-color-background-body-v16-0-6));
+}
+.magritte-spread___QwHZZ_4-0-0{
+  display:flex;
+  justify-content:space-between;
+  height:44px;
+}
+.magritte-half-title-wrapper___7aFez_4-0-0{
+  flex:1 1;
+  position:relative;
+  height:100%;
+  margin-right:auto;
+}
+.magritte-title-wrapper___pMnwH_4-0-0{
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:-100%;
+  width:200%;
+  text-align:center;
+}
+.magritte-left___tz5Cc_4-0-0,
+.magritte-right___yZl07_4-0-0,
+.magritte-right-dummy___lQOPS_4-0-0{
+  display:flex;
+  align-items:center;
+}
+.magritte-left___tz5Cc_4-0-0{
+  flex:1 1;
+  justify-content:flex-start;
+}
+.magritte-right___yZl07_4-0-0{
+  flex:1 1 100%;
+}
+.magritte-right___yZl07_4-0-0,
+.magritte-right-dummy___lQOPS_4-0-0{
+  justify-content:flex-end;
+}
+.magritte-right-dummy___lQOPS_4-0-0{
+  min-width:34px;
+}
+.magritte-container_standard___Z-VpM_4-0-0 .magritte-left___tz5Cc_4-0-0,
+.magritte-container_standard___Z-VpM_4-0-0 .magritte-right___yZl07_4-0-0{
+  flex:0 0 50%;
+}
+.magritte-left___tz5Cc_4-0-0 .magritte-icon___ZRa85_4-0-0:first-of-type{
+  margin-left:-8px;
+  margin-right:2px;
+}
+.magritte-right___yZl07_4-0-0 .magritte-icon___ZRa85_4-0-0:first-of-type{
+  margin-left:2px;
+}
+.magritte-right___yZl07_4-0-0 .magritte-icon___ZRa85_4-0-0:last-of-type{
+  margin-right:-8px;
+}
+.magritte-right___yZl07_4-0-0 .magritte-icon___ZRa85_4-0-0 + .magritte-icon___ZRa85_4-0-0{
+  margin-left:4px;
+}
+.magritte-progress___ZiifG_4-0-0{
+  flex:1 0;
+}
+.magritte-progress___ZiifG_4-0-0 + .magritte-label___by-BL_4-0-0{
+  margin-left:16px;
+}
+.magritte-label___by-BL_4-0-0{
+  --magritte-ui-link-padding-override:11px;
+}
+.magritte-available-width-wrapper___948-P_4-0-0{
+  margin:0 8px;
+  max-width:max(0px, calc((100% - 50px - 8px - 8px + 1px) * 1000));
+}
+.magritte-title___xf6at_4-0-0{
+  color:var(--magritte-color-component-navigation-bar-text-title-v16-0-6);
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.magritte-container_large___MxU0-_4-0-0 .magritte-title___xf6at_4-0-0{
+  font-family:var(--magritte-typography-title-4-semibold-font-family-v16-0-6);
+  font-weight:var(--magritte-typography-title-4-semibold-font-weight-v16-0-6);
+  line-height:var(--magritte-typography-title-4-semibold-line-height-v16-0-6);
+  font-size:var(--magritte-typography-title-4-semibold-font-size-v16-0-6);
+  letter-spacing:var(--magritte-typography-title-4-semibold-letter-spacing-v16-0-6);
+  text-indent:var(--magritte-typography-title-4-semibold-text-indent-v16-0-6);
+  text-transform:var(--magritte-typography-title-4-semibold-text-transform-v16-0-6);
+  text-decoration:var(--magritte-typography-title-4-semibold-text-decoration-v16-0-6);
+  padding-top:8px;
+}
+.magritte-container_standard___Z-VpM_4-0-0 .magritte-title___xf6at_4-0-0{
+  font-family:var(--magritte-typography-title-5-semibold-font-family-v16-0-6);
+  font-weight:var(--magritte-typography-title-5-semibold-font-weight-v16-0-6);
+  line-height:var(--magritte-typography-title-5-semibold-line-height-v16-0-6);
+  font-size:var(--magritte-typography-title-5-semibold-font-size-v16-0-6);
+  letter-spacing:var(--magritte-typography-title-5-semibold-letter-spacing-v16-0-6);
+  text-indent:var(--magritte-typography-title-5-semibold-text-indent-v16-0-6);
+  text-transform:var(--magritte-typography-title-5-semibold-text-transform-v16-0-6);
+  text-decoration:var(--magritte-typography-title-5-semibold-text-decoration-v16-0-6);
+  white-space:nowrap;
+}
+.magritte-container_standard___Z-VpM_4-0-0 .magritte-title_without-subtitle___a7AyT_4-0-0{
+  padding:9px 0;
+}
+.magritte-subtitle___VXwyG_4-0-0{
+  color:var(--magritte-color-component-navigation-bar-text-subtitle-v16-0-6);
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.magritte-container_large___MxU0-_4-0-0 .magritte-subtitle___VXwyG_4-0-0{
+  font-family:var(--magritte-typography-label-2-regular-font-family-v16-0-6);
+  font-weight:var(--magritte-typography-label-2-regular-font-weight-v16-0-6);
+  line-height:var(--magritte-typography-label-2-regular-line-height-v16-0-6);
+  font-size:var(--magritte-typography-label-2-regular-font-size-v16-0-6);
+  letter-spacing:var(--magritte-typography-label-2-regular-letter-spacing-v16-0-6);
+  text-indent:var(--magritte-typography-label-2-regular-text-indent-v16-0-6);
+  text-transform:var(--magritte-typography-label-2-regular-text-transform-v16-0-6);
+  text-decoration:var(--magritte-typography-label-2-regular-text-decoration-v16-0-6);
+  padding-top:4px;
+}
+.magritte-container_standard___Z-VpM_4-0-0 .magritte-subtitle___VXwyG_4-0-0{
+  font-family:var(--magritte-typography-label-4-regular-font-family-v16-0-6);
+  font-weight:var(--magritte-typography-label-4-regular-font-weight-v16-0-6);
+  line-height:var(--magritte-typography-label-4-regular-line-height-v16-0-6);
+  font-size:var(--magritte-typography-label-4-regular-font-size-v16-0-6);
+  letter-spacing:var(--magritte-typography-label-4-regular-letter-spacing-v16-0-6);
+  text-indent:var(--magritte-typography-label-4-regular-text-indent-v16-0-6);
+  text-transform:var(--magritte-typography-label-4-regular-text-transform-v16-0-6);
+  text-decoration:var(--magritte-typography-label-4-regular-text-decoration-v16-0-6);
+  white-space:nowrap;
+}
+.magritte-options___3Um-D_4-0-0{
+  padding-top:16px;
+}
+
+
+/*# sourceMappingURL=35863.180f3d035b3c8906657b.css.map*/
